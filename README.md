@@ -1,4 +1,4 @@
-# Projeto Front-end: Landing Page de um e-commerce de relógios
+# Projeto Front-end: Landing Page de Perfil Pessoal
 
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
